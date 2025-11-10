@@ -1,5 +1,6 @@
 # SQL-Practice-Challenges
 SQL_Practice_challenges This repository contains SQL mini-projects and challenges completed while learning SQL concepts. Each file represents a different business scenario demonstrating practical database operations.
+
 📂 Projects Included
 1. Online Bookstore
 Focus: Triggers, Transactions, and Rollbacks
@@ -30,10 +31,11 @@ ALTER, RENAME, TRUNCATE, DROP
 6. Sales Database
 Focus: Aggregate functions
 Features:
-
 SUM, COUNT, AVG, MIN, MAX
 Rounding averages
 Revenue summarization
+
 🛠️ Tech Stack
+
 MySQL Workbench 8.0 CE
 SQL Syntax: DDL, DML, DCL, TCL
